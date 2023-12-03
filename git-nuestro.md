@@ -1,6 +1,5 @@
-*Git* nuestro
 
-Git nuestro que estas en los repos
+*Git* nuestro
 
 Comprimidos sean tus *commits*
 
@@ -11,8 +10,6 @@ En el local como en el *remote*
 Danos oy nuestro *pull* de cada dia
 
 Perdona nuestros *conflictos*
-
-Como tambien perdonamos los de otros geeks
 
 No nos dejes caer en *detached HEAD*
 
